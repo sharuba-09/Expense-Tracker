@@ -1,0 +1,4 @@
+body { font-family: Arial; width: 600px; margin: auto; }
+table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+td, th { border: 1px solid #ccc; padding: 8px; text-align: center; }
+button { cursor: pointer; }
